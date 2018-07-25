@@ -1,0 +1,11 @@
+## Theme
+
+If you dont consider UX a first class citizen then the users will just cimcumvent your design the first chance they get.
+
+## Major problems that affect the UX of a secure infrastructure design:
+
+- auth and authorization issues (ssh keys, passwords)
+- network traversal (firewall rules, security groups)
+- the designer making things so secure that the user is incumbered to do anything
+- users not effectively communiczting their needs during the design phase
+- designer and developers not understanding the needs of the users
